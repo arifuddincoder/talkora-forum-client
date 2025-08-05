@@ -12,8 +12,8 @@
 
 ## 🧾 Repositories
 
-- 🗂️ **Client GitHub:** [https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-arif128551](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-arif128551)  
-- ⚙️ **Server GitHub:** [https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-arif128551](https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-arif128551)  
+- 🗂️ **Client GitHub:** [https://github.com/arifuddincoder/talkora-forum-client](https://github.com/arifuddincoder/talkora-forum-client)  
+- ⚙️ **Server GitHub:** [https://github.com/arifuddincoder/talkora-forum-server](https://github.com/arifuddincoder/talkora-forum-server)  
 - 🌐 **Main API:** [https://b11a12-talkora-server.vercel.app/](https://b11a12-talkora-server.vercel.app/)
 
 ---
@@ -149,18 +149,18 @@ VITE_AUTH_DOMAIN=...
 ## 👨‍💻 Developer Info
 
 **Md Arif Uddin**  
-📧 arif.uddin.dev@gmail.com  
+📧 arifuddincoder@gmail.com  
 🌐 [https://codebyarif.web.app](https://codebyarif.web.app)  
-🔗 [LinkedIn](https://linkedin.com/in/arif128551) | [GitHub](https://github.com/arif128551)
+🔗 [LinkedIn](https://linkedin.com/in/arifuddincoder) | [GitHub](https://github.com/arifuddincoder)
 
 ---
 
-## 📬 Submission Info
+## 📬 Admin Access Info
 
 - **Admin Email:** `rafiq.ahmed@mailinator.com`
 - **Admin Password:** `Pa$$w0rd!`
 - 🔗 **Live URL:** [https://b11a12-talkora.web.app](https://b11a12-talkora.web.app)
-- 🧾 **Client GitHub:** [https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-arif128551](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-arif128551)
-- 🧾 **Server GitHub:** [https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-arif128551](https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-arif128551)
+- 🧾 **Client GitHub:** [https://github.com/arifuddincoder/talkora-forum-client](https://github.com/arifuddincoder/talkora-forum-client)
+- 🧾 **Server GitHub:** [https://github.com/arifuddincoder/talkora-forum-server](https://github.com/arifuddincoder/talkora-forum-server)
 
 ---
