@@ -49,7 +49,7 @@ const Navbar = () => {
 		</>
 	);
 	return (
-		<div>
+		<div className="sticky top-0 z-50 bg-white shadow">
 			<Container>
 				<div className="navbar items-center flex justify-between">
 					<div className="navbar-start sm:w-[40%] w-full gap-2">
