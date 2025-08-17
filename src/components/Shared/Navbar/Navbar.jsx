@@ -31,12 +31,23 @@ const Navbar = () => {
 				</NavLink>
 			</li>
 			<li>
-				<NavLink to="/membership" className="hover:text-black">
-					Membership
+				<NavLink to="/about" className="hover:text-black">
+					About
+				</NavLink>
+			</li>
+			<li>
+				<NavLink to="/contact" className="hover:text-black">
+					Contact
 				</NavLink>
 			</li>
 			{user ? (
-				<></>
+				<>
+					<li>
+						<NavLink to="/membership" className="hover:text-black">
+							Membership
+						</NavLink>
+					</li>
+				</>
 			) : (
 				<>
 					<li>

@@ -6,6 +6,9 @@ import PostCard from "./PostCard/PostCard";
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import usePosts from "../../hooks/usePosts";
 import LoadingSpinner from "../../components/Shared/LoadingSpinner";
+import WhyJoin from "../../components/Shared/footerSections/WhyJoin";
+import CommunityGuidelines from "../../components/Shared/footerSections/CommunityGuidelines";
+import NewsletterCTA from "../../components/Shared/footerSections/NewsletterCTA";
 
 const HomePage = () => {
 	const [page, setPage] = useState(0);
@@ -107,6 +110,11 @@ const HomePage = () => {
 					</div>
 				</div>
 			</Container>
+			<div className="bg-white">
+				<WhyJoin></WhyJoin>
+				<CommunityGuidelines></CommunityGuidelines>
+				<NewsletterCTA></NewsletterCTA>
+			</div>
 		</>
 	);
 };

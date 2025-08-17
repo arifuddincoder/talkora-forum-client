@@ -17,6 +17,8 @@ import MyPosts from "../pages/dashboard/User/MyPosts/MyPosts";
 import MembershipPage from "../pages/Membership/MembershipPage";
 import CommentPage from "../pages/dashboard/User/CommentPage/CommentPage";
 import ReportedComments from "../pages/dashboard/Admin/ReportedComments/ReportedComments";
+import Contact from "../pages/general/Contact";
+import About from "../pages/general/About";
 
 export const router = createBrowserRouter([
 	{
@@ -31,6 +33,14 @@ export const router = createBrowserRouter([
 			{
 				path: "/post-details/:id",
 				Component: PostDetailsPage,
+			},
+			{
+				path: "/contact",
+				Component: Contact,
+			},
+			{
+				path: "/about",
+				Component: About,
 			},
 			{
 				path: "/membership",
