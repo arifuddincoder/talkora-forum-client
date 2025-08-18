@@ -104,7 +104,7 @@ src/
 ## 🛡️ Security & Environment
 
 ### ✅ Environment Variables (secured)
-Stored in `.env`:
+Stored in `.env.local`:
 ```
 VITE_API_URL=https://b11a12-talkora-server.vercel.app
 VITE_FIREBASE_API_KEY=...
