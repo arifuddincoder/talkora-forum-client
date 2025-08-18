@@ -47,6 +47,11 @@ const Navbar = () => {
 							Membership
 						</NavLink>
 					</li>
+					<li>
+						<NavLink to={`/users/${user.email}/posts`} className="hover:text-black">
+							My Posts
+						</NavLink>
+					</li>
 				</>
 			) : (
 				<>

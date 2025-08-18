@@ -19,6 +19,7 @@ import CommentPage from "../pages/dashboard/User/CommentPage/CommentPage";
 import ReportedComments from "../pages/dashboard/Admin/ReportedComments/ReportedComments";
 import Contact from "../pages/general/Contact";
 import About from "../pages/general/About";
+import UserPosts from "../pages/UserPosts/UserPosts";
 
 export const router = createBrowserRouter([
 	{
@@ -47,6 +48,14 @@ export const router = createBrowserRouter([
 				element: (
 					<PrivateRoute>
 						<MembershipPage />
+					</PrivateRoute>
+				),
+			},
+			{
+				path: "/users/:email/posts",
+				element: (
+					<PrivateRoute>
+						<UserPosts />
 					</PrivateRoute>
 				),
 			},
