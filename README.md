@@ -155,12 +155,25 @@ VITE_AUTH_DOMAIN=...
 
 ---
 
-## 📬 Admin Access Info
+## 👑 Admin Access
 
-- **Admin Email:** `rafiq.ahmed@mailinator.com`
-- **Admin Password:** `Pa$$w0rd!`
-- 🔗 **Live URL:** [https://b11a12-talkora.web.app](https://b11a12-talkora.web.app)
-- 🧾 **Client GitHub:** [https://github.com/arifuddincoder/talkora-forum-client](https://github.com/arifuddincoder/talkora-forum-client)
-- 🧾 **Server GitHub:** [https://github.com/arifuddincoder/talkora-forum-server](https://github.com/arifuddincoder/talkora-forum-server)
+- **Email:** `rafiq.ahmed@mailinator.com`  
+- **Password:** `Pa$$w0rd!`
 
 ---
+
+## 👤 General User Access
+
+- **Email:** `david.kim@mailinator.com`  
+- **Password:** `Pa$$w0rd!`
+
+---
+
+## 🔗 Project Links
+
+- 🌐 **Live URL:** [https://b11a12-talkora.web.app](https://b11a12-talkora.web.app)  
+- 🧾 **Client GitHub:** [https://github.com/arifuddincoder/talkora-forum-client](https://github.com/arifuddincoder/talkora-forum-client)  
+- 🧾 **Server GitHub:** [https://github.com/arifuddincoder/talkora-forum-server](https://github.com/arifuddincoder/talkora-forum-server)  
+
+---
+
