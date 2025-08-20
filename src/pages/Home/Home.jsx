@@ -110,11 +110,11 @@ const HomePage = () => {
 					</div>
 				</div>
 			</Container>
-			<div className="bg-white">
+			{/* <div className="bg-white">
 				<WhyJoin></WhyJoin>
 				<CommunityGuidelines></CommunityGuidelines>
 				<NewsletterCTA></NewsletterCTA>
-			</div>
+			</div> */}
 		</>
 	);
 };
